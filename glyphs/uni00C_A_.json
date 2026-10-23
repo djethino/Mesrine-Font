@@ -1,0 +1,41 @@
+{
+  "advance": 972.0,
+  "anchors": [],
+  "background": null,
+  "components": [
+    {
+      "base": "E",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "base": "uni0302",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        17.0,
+        233.0
+      ]
+    }
+  ],
+  "contours": [],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "uni00CA",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    202
+  ]
+}

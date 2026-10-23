@@ -1,0 +1,209 @@
+{
+  "advance": 946.0,
+  "anchors": [],
+  "background": null,
+  "components": [],
+  "contours": [
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 950.0,
+          "y": 676.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 927.0,
+          "y": 718.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 881.0,
+          "y": 735.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 828.0,
+          "y": 735.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 698.0,
+          "y": 735.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 522.0,
+          "y": 633.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 517.0,
+          "y": 562.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 585.0,
+          "y": 588.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 679.0,
+          "y": 662.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 777.0,
+          "y": 662.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 801.0,
+          "y": 662.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 826.0,
+          "y": 658.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 850.0,
+          "y": 647.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 619.0,
+          "y": 451.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 260.0,
+          "y": 295.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 284.0,
+          "y": 170.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 289.0,
+          "y": 172.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 621.0,
+          "y": 412.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 621.0,
+          "y": 412.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 786.0,
+          "y": 531.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 876.0,
+          "y": 564.0
+        }
+      ]
+    },
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 336.0,
+          "y": 64.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 303.0,
+          "y": 73.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 75.0,
+          "y": 38.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": -11.0,
+          "y": -53.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": -4.0,
+          "y": -57.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 28.0,
+          "y": -62.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 69.0,
+          "y": -62.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 160.0,
+          "y": -62.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 300.0,
+          "y": -39.0
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "question",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    63
+  ]
+}

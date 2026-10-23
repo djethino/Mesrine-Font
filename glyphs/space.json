@@ -1,0 +1,18 @@
+{
+  "advance": 596.0,
+  "anchors": [],
+  "background": null,
+  "components": [],
+  "contours": [],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "space",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    32
+  ]
+}

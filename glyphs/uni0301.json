@@ -1,0 +1,60 @@
+{
+  "advance": 1402.0,
+  "anchors": [],
+  "background": null,
+  "components": [],
+  "contours": [
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 1326.0,
+          "y": 846.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 1268.0,
+          "y": 860.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 909.0,
+          "y": 654.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 905.0,
+          "y": 595.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 955.0,
+          "y": 601.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 1312.0,
+          "y": 771.0
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "uni0301",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    769
+  ]
+}

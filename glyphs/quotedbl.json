@@ -1,0 +1,137 @@
+{
+  "advance": 379.0,
+  "anchors": [],
+  "background": null,
+  "components": [],
+  "contours": [
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 373.0,
+          "y": 817.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 263.0,
+          "y": 821.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 162.0,
+          "y": 597.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 160.0,
+          "y": 577.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 263.0,
+          "y": 606.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 373.0,
+          "y": 817.0
+        }
+      ]
+    },
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 218.0,
+          "y": 788.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 129.0,
+          "y": 800.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 9.0,
+          "y": 694.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 9.0,
+          "y": 597.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 9.0,
+          "y": 585.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 10.0,
+          "y": 574.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 14.0,
+          "y": 563.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 95.0,
+          "y": 607.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 8.0,
+          "y": 585.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 118.0,
+          "y": 697.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 170.0,
+          "y": 750.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 171.0,
+          "y": 745.0
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "quotedbl",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    34
+  ]
+}

@@ -1,0 +1,1235 @@
+{
+  "advance": 500.0,
+  "anchors": [],
+  "background": null,
+  "components": [],
+  "contours": [
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 432.0,
+          "y": 68.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 439.0,
+          "y": 68.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 369.0,
+          "y": 152.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 369.0,
+          "y": 152.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 353.0,
+          "y": 169.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 371.0,
+          "y": 151.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 291.0,
+          "y": 214.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 283.0,
+          "y": 221.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 275.0,
+          "y": 227.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 267.0,
+          "y": 234.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 272.0,
+          "y": 239.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 277.0,
+          "y": 244.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 281.0,
+          "y": 248.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 383.0,
+          "y": 171.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 365.0,
+          "y": 198.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 419.0,
+          "y": 139.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 419.0,
+          "y": 139.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 369.0,
+          "y": 189.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 288.0,
+          "y": 257.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 354.0,
+          "y": 341.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 333.0,
+          "y": 360.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 435.0,
+          "y": 471.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 356.0,
+          "y": 425.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 320.0,
+          "y": 322.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 277.0,
+          "y": 266.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 273.0,
+          "y": 269.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 268.0,
+          "y": 273.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 264.0,
+          "y": 276.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 329.0,
+          "y": 354.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 315.0,
+          "y": 401.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 435.0,
+          "y": 510.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 332.0,
+          "y": 463.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 301.0,
+          "y": 358.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 249.0,
+          "y": 289.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 245.0,
+          "y": 292.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 242.0,
+          "y": 296.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 238.0,
+          "y": 300.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 253.0,
+          "y": 319.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 257.0,
+          "y": 328.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 259.0,
+          "y": 331.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 282.0,
+          "y": 370.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 318.0,
+          "y": 441.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 366.0,
+          "y": 498.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 303.0,
+          "y": 452.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 259.0,
+          "y": 352.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 228.0,
+          "y": 310.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 162.0,
+          "y": 382.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 106.0,
+          "y": 479.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 54.0,
+          "y": 529.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 140.0,
+          "y": 397.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 161.0,
+          "y": 362.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 220.0,
+          "y": 298.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 217.0,
+          "y": 295.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 214.0,
+          "y": 291.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 210.0,
+          "y": 286.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 141.0,
+          "y": 359.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 85.0,
+          "y": 462.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 13.0,
+          "y": 528.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 69.0,
+          "y": 438.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 142.0,
+          "y": 326.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 197.0,
+          "y": 271.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 193.0,
+          "y": 267.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 190.0,
+          "y": 263.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 186.0,
+          "y": 259.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 130.0,
+          "y": 315.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 67.0,
+          "y": 414.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 25.0,
+          "y": 459.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 28.0,
+          "y": 459.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 93.0,
+          "y": 333.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 177.0,
+          "y": 249.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 147.0,
+          "y": 211.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 110.0,
+          "y": 171.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 54.0,
+          "y": 130.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 53.0,
+          "y": 129.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 60.0,
+          "y": 135.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 75.0,
+          "y": 142.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 79.0,
+          "y": 143.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 81.0,
+          "y": 145.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 89.0,
+          "y": 150.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 102.0,
+          "y": 157.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 132.0,
+          "y": 191.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 143.0,
+          "y": 201.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 143.0,
+          "y": 201.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 175.0,
+          "y": 233.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 185.0,
+          "y": 241.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 189.0,
+          "y": 237.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 194.0,
+          "y": 233.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 199.0,
+          "y": 229.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 193.0,
+          "y": 223.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 188.0,
+          "y": 217.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 182.0,
+          "y": 211.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 117.0,
+          "y": 141.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 137.0,
+          "y": 155.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 110.0,
+          "y": 131.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 87.0,
+          "y": 111.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 84.0,
+          "y": 119.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 46.0,
+          "y": 81.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 41.0,
+          "y": 77.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 39.0,
+          "y": 75.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 39.0,
+          "y": 74.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 39.0,
+          "y": 74.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 39.0,
+          "y": 74.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 39.0,
+          "y": 74.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 44.0,
+          "y": 74.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 133.0,
+          "y": 138.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 160.0,
+          "y": 169.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 161.0,
+          "y": 170.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 180.0,
+          "y": 188.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 193.0,
+          "y": 201.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 200.0,
+          "y": 207.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 206.0,
+          "y": 213.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 211.0,
+          "y": 219.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 216.0,
+          "y": 215.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 221.0,
+          "y": 211.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 227.0,
+          "y": 206.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 105.0,
+          "y": 76.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 151.0,
+          "y": 116.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 111.0,
+          "y": 87.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 114.0,
+          "y": 89.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 121.0,
+          "y": 93.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 121.0,
+          "y": 93.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 125.0,
+          "y": 96.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 128.0,
+          "y": 98.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 132.0,
+          "y": 100.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 138.0,
+          "y": 105.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 147.0,
+          "y": 113.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 150.0,
+          "y": 116.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 154.0,
+          "y": 119.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 228.0,
+          "y": 193.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 235.0,
+          "y": 200.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 300.0,
+          "y": 145.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 311.0,
+          "y": 163.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 383.0,
+          "y": 78.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 388.0,
+          "y": 78.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 358.0,
+          "y": 111.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 358.0,
+          "y": 111.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 346.0,
+          "y": 126.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 336.0,
+          "y": 136.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 332.0,
+          "y": 139.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 321.0,
+          "y": 148.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 283.0,
+          "y": 173.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 243.0,
+          "y": 208.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 248.0,
+          "y": 213.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 252.0,
+          "y": 217.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 256.0,
+          "y": 221.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 339.0,
+          "y": 169.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 381.0,
+          "y": 131.0
+        }
+      ]
+    },
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 111.0,
+          "y": 87.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 111.0,
+          "y": 87.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 111.0,
+          "y": 87.0
+        }
+      ]
+    },
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 234.0,
+          "y": 215.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 229.0,
+          "y": 219.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 224.0,
+          "y": 223.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 220.0,
+          "y": 227.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 224.0,
+          "y": 232.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 228.0,
+          "y": 236.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 232.0,
+          "y": 240.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 237.0,
+          "y": 236.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 241.0,
+          "y": 233.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 246.0,
+          "y": 229.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 243.0,
+          "y": 224.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 239.0,
+          "y": 220.0
+        }
+      ]
+    },
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 207.0,
+          "y": 239.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 202.0,
+          "y": 243.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 198.0,
+          "y": 247.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 194.0,
+          "y": 251.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 198.0,
+          "y": 255.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 202.0,
+          "y": 259.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 205.0,
+          "y": 263.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 210.0,
+          "y": 259.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 214.0,
+          "y": 255.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 218.0,
+          "y": 251.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 215.0,
+          "y": 247.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 211.0,
+          "y": 243.0
+        }
+      ]
+    },
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 258.0,
+          "y": 242.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 253.0,
+          "y": 246.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 249.0,
+          "y": 250.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 245.0,
+          "y": 253.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 249.0,
+          "y": 258.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 253.0,
+          "y": 262.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 257.0,
+          "y": 267.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 261.0,
+          "y": 263.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 265.0,
+          "y": 260.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 270.0,
+          "y": 256.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 266.0,
+          "y": 252.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 262.0,
+          "y": 247.0
+        }
+      ]
+    },
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 231.0,
+          "y": 266.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 227.0,
+          "y": 270.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 223.0,
+          "y": 274.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 219.0,
+          "y": 277.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 223.0,
+          "y": 282.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 226.0,
+          "y": 286.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 229.0,
+          "y": 289.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 233.0,
+          "y": 286.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 237.0,
+          "y": 282.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 242.0,
+          "y": 279.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 238.0,
+          "y": 275.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 235.0,
+          "y": 270.0
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": ".notdef",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": []
+}

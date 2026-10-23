@@ -1,0 +1,210 @@
+{
+  "advance": 731.0,
+  "anchors": [
+    {
+      "name": "exit",
+      "x": 731.0,
+      "y": 160.0
+    }
+  ],
+  "background": null,
+  "components": [],
+  "contours": [
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 688.0,
+          "y": 292.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 691.0,
+          "y": 361.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 636.0,
+          "y": 387.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 556.0,
+          "y": 387.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 378.0,
+          "y": 387.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 79.0,
+          "y": 255.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 51.0,
+          "y": 168.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 46.0,
+          "y": 153.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 44.0,
+          "y": 139.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 44.0,
+          "y": 126.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 44.0,
+          "y": 43.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 138.0,
+          "y": 1.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 269.0,
+          "y": 1.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 407.0,
+          "y": 1.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 587.0,
+          "y": 48.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 742.0,
+          "y": 146.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 697.0,
+          "y": 168.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 450.0,
+          "y": 50.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 277.0,
+          "y": 50.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 198.0,
+          "y": 50.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 135.0,
+          "y": 74.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 111.0,
+          "y": 146.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 180.0,
+          "y": 258.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 326.0,
+          "y": 278.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 379.0,
+          "y": 294.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 496.0,
+          "y": 329.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 559.0,
+          "y": 341.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 594.0,
+          "y": 341.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 669.0,
+          "y": 341.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 614.0,
+          "y": 287.0
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": "c",
+  "kernRightGroup": "c",
+  "name": "c",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    99
+  ]
+}

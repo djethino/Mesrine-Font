@@ -1,0 +1,41 @@
+{
+  "advance": 819.0,
+  "anchors": [],
+  "background": null,
+  "components": [
+    {
+      "base": "U",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "base": "uni0302",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        -408.0,
+        97.0
+      ]
+    }
+  ],
+  "contours": [],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "uni00DB",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    219
+  ]
+}

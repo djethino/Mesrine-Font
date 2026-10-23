@@ -1,0 +1,134 @@
+{
+  "advance": 1000.0,
+  "anchors": [],
+  "background": null,
+  "brush": {
+    "label": "Scrunch",
+    "order": 1.0
+  },
+  "components": [],
+  "contours": [
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 964.0,
+          "y": -427.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 1170.0,
+          "y": -584.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 181.0,
+          "y": -179.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 8.0,
+          "y": -13.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 165.0,
+          "y": 161.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": -297.0,
+          "y": 523.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": -29.0,
+          "y": 519.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 69.0,
+          "y": 517.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 192.0,
+          "y": 165.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 410.0,
+          "y": 156.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 589.0,
+          "y": 149.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 858.0,
+          "y": 495.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 998.0,
+          "y": 416.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 1140.0,
+          "y": 336.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 737.0,
+          "y": 152.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 791.0,
+          "y": 100.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 618.0,
+          "y": -67.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 601.0,
+          "y": -150.0
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "_brush.Scrunch",
+  "skipExport": true,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": []
+}

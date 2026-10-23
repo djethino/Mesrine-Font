@@ -1,0 +1,300 @@
+{
+  "advance": 500.0,
+  "anchors": [],
+  "background": null,
+  "components": [],
+  "contours": [
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 94.0,
+          "y": 379.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 94.0,
+          "y": 379.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 103.0,
+          "y": 410.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 103.0,
+          "y": 410.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 130.0,
+          "y": 507.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 109.0,
+          "y": 444.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 120.0,
+          "y": 475.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 127.0,
+          "y": 494.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 113.0,
+          "y": 457.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 148.0,
+          "y": 540.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 151.0,
+          "y": 549.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 155.0,
+          "y": 557.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 157.0,
+          "y": 563.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 158.0,
+          "y": 564.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 158.0,
+          "y": 565.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 159.0,
+          "y": 566.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 567.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 159.0,
+          "y": 568.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 568.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 568.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 159.0,
+          "y": 568.0
+        },
+        {
+          "kind": "line",
+          "smooth": false,
+          "x": 156.0,
+          "y": 567.0
+        },
+        {
+          "kind": "line",
+          "smooth": false,
+          "x": 127.0,
+          "y": 547.0
+        },
+        {
+          "kind": "line",
+          "smooth": false,
+          "x": 125.0,
+          "y": 545.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 112.0,
+          "y": 511.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 105.0,
+          "y": 490.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 100.0,
+          "y": 478.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 93.0,
+          "y": 463.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 91.0,
+          "y": 457.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 88.0,
+          "y": 442.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 83.0,
+          "y": 416.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 69.0,
+          "y": 364.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 70.0,
+          "y": 364.0
+        },
+        {
+          "kind": "line",
+          "smooth": false,
+          "x": 70.0,
+          "y": 363.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 74.0,
+          "y": 363.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 93.0,
+          "y": 379.0
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "uni2019",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    8217
+  ]
+}

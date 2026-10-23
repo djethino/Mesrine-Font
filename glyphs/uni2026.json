@@ -1,0 +1,52 @@
+{
+  "advance": 480.0,
+  "anchors": [],
+  "background": null,
+  "components": [
+    {
+      "base": "period",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "base": "period",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        160.0,
+        0.0
+      ]
+    },
+    {
+      "base": "period",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        320.0,
+        0.0
+      ]
+    }
+  ],
+  "contours": [],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "uni2026",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    8230
+  ]
+}

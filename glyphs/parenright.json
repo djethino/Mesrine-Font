@@ -1,0 +1,96 @@
+{
+  "advance": 802.0,
+  "anchors": [],
+  "background": null,
+  "components": [],
+  "contours": [
+    {
+      "closed": true,
+      "points": [
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": 776.0,
+          "y": 686.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 663.0,
+          "y": 618.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 776.0,
+          "y": -101.0
+        },
+        {
+          "kind": "curve",
+          "smooth": false,
+          "x": -243.0,
+          "y": -379.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": -217.0,
+          "y": -389.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": -189.0,
+          "y": -394.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": -158.0,
+          "y": -394.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 192.0,
+          "y": -394.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 796.0,
+          "y": 237.0
+        },
+        {
+          "kind": "curve",
+          "smooth": true,
+          "x": 796.0,
+          "y": 587.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 796.0,
+          "y": 624.0
+        },
+        {
+          "kind": "offcurve",
+          "smooth": false,
+          "x": 790.0,
+          "y": 657.0
+        }
+      ]
+    }
+  ],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "parenright",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": [
+    41
+  ]
+}
