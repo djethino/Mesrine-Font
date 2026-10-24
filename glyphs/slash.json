@@ -376,24 +376,6 @@
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 68.0,
-          "y": -28.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 68.0,
-          "y": -29.0
-        },
-        {
-          "kind": "curve",
-          "smooth": true,
-          "x": 67.0,
-          "y": -29.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
           "x": 67.0,
           "y": -29.0
         },

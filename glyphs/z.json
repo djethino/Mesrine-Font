@@ -280,12 +280,6 @@
         {
           "kind": "line",
           "smooth": false,
-          "x": 431.0,
-          "y": 413.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
           "x": 425.0,
           "y": 412.0
         },
@@ -671,12 +665,6 @@
           "kind": "line",
           "smooth": false,
           "x": 33.0,
-          "y": -26.0
-        },
-        {
-          "kind": "line",
-          "smooth": true,
-          "x": 34.0,
           "y": -26.0
         },
         {

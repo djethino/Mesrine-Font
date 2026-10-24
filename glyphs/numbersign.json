@@ -1102,12 +1102,6 @@
         {
           "kind": "line",
           "smooth": false,
-          "x": 104.0,
-          "y": 310.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
           "x": 103.0,
           "y": 310.0
         },
@@ -1288,12 +1282,6 @@
         {
           "kind": "line",
           "smooth": false,
-          "x": 94.0,
-          "y": 170.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
           "x": 93.0,
           "y": 170.0
         },
@@ -1350,24 +1338,6 @@
           "smooth": false,
           "x": 73.0,
           "y": 157.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 72.0,
-          "y": 156.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 72.0,
-          "y": 156.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 72.0,
-          "y": 156.0
         },
         {
           "kind": "offcurve",

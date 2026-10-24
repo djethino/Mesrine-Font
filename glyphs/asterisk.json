@@ -621,27 +621,9 @@
         },
         {
           "kind": "curve",
-          "smooth": true,
+          "smooth": false,
           "x": 121.0,
           "y": 256.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 120.0,
-          "y": 255.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 120.0,
-          "y": 255.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 120.0,
-          "y": 255.0
         },
         {
           "kind": "offcurve",

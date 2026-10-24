@@ -287,24 +287,6 @@
           "kind": "offcurve",
           "smooth": false,
           "x": 859.0,
-          "y": 873.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 859.0,
-          "y": 874.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 859.0,
-          "y": 874.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 859.0,
           "y": 874.0
         },
         {
@@ -317,42 +299,6 @@
           "kind": "curve",
           "smooth": false,
           "x": 859.0,
-          "y": 875.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 859.0,
-          "y": 875.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 859.0,
-          "y": 875.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 859.0,
-          "y": 875.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 860.0,
-          "y": 875.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 860.0,
-          "y": 875.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 860.0,
           "y": 875.0
         },
         {
