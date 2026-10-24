@@ -613,12 +613,6 @@
           "y": 49.0
         },
         {
-          "kind": "line",
-          "smooth": false,
-          "x": 233.0,
-          "y": 49.0
-        },
-        {
           "kind": "offcurve",
           "smooth": false,
           "x": 213.0,

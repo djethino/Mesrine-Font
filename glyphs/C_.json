@@ -1,6 +1,12 @@
 {
   "advance": 844.0,
-  "anchors": [],
+  "anchors": [
+    {
+      "name": "cedilla",
+      "x": 380.0,
+      "y": 179.0
+    }
+  ],
   "background": null,
   "components": [],
   "contours": [

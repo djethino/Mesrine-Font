@@ -428,8 +428,8 @@
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 719.0,
-          "y": 356.0
+          "x": 701.0,
+          "y": 380.0
         },
         {
           "kind": "curve",
@@ -440,8 +440,8 @@
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 798.0,
-          "y": 415.0
+          "x": 785.0,
+          "y": 437.0
         },
         {
           "kind": "offcurve",
