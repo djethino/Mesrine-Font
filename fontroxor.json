@@ -112,6 +112,9 @@
           "x": 65.6052707535879,
           "y": 54.06050950111489
         },
+        "messages": {
+          "language": "en"
+        },
         "preview": {
           "custom": {
             "h": 800,
@@ -132,7 +135,7 @@
           "mode": "text",
           "rotated": false,
           "size": 13,
-          "text": "question d'argent - - même si la proposition est\n\n\n\nzoo of brooklin Creadance Booguy [test] [YT]\n\nyo@zenmo",
+          "text": "question d'argent - - même si la proposition est\n\n\n\nzoo of brooklin Creadance Booguy [test] [YT]\n\nyo@zenmo google",
           "wrap": true
         }
       },

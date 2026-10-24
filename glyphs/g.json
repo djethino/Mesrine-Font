@@ -1,15 +1,15 @@
 {
-  "advance": 1119.0,
+  "advance": 1067.0,
   "anchors": [
     {
       "name": "exit",
       "x": 1119.0,
-      "y": 132.0
+      "y": 158.0
     },
     {
       "name": "entry",
-      "x": 579.0,
-      "y": 120.0
+      "x": 547.0,
+      "y": 237.0
     }
   ],
   "background": null,
