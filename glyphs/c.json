@@ -5,6 +5,11 @@
       "name": "exit",
       "x": 731.0,
       "y": 160.0
+    },
+    {
+      "name": "cedilla",
+      "x": 386.0,
+      "y": 8.0
     }
   ],
   "background": null,
