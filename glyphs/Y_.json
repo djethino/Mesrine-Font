@@ -1,6 +1,12 @@
 {
   "advance": 1240.0,
-  "anchors": [],
+  "anchors": [
+    {
+      "name": "top",
+      "x": 863.0,
+      "y": 693.0
+    }
+  ],
   "background": null,
   "components": [],
   "contours": [

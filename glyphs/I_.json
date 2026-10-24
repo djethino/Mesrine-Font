@@ -1,122 +1,15 @@
 {
   "advance": 657.0,
-  "anchors": [],
+  "anchors": [
+    {
+      "name": "top",
+      "x": 476.0,
+      "y": 465.0
+    }
+  ],
   "background": null,
   "components": [],
   "contours": [
-    {
-      "closed": true,
-      "points": [
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 617.0,
-          "y": 622.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 583.0,
-          "y": 616.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 569.0,
-          "y": 594.0
-        },
-        {
-          "kind": "curve",
-          "smooth": true,
-          "x": 569.0,
-          "y": 569.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 569.0,
-          "y": 532.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 600.0,
-          "y": 486.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 646.0,
-          "y": 469.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 648.0,
-          "y": 498.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 650.0,
-          "y": 507.0
-        },
-        {
-          "kind": "curve",
-          "smooth": true,
-          "x": 651.0,
-          "y": 507.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 653.0,
-          "y": 507.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 654.0,
-          "y": 500.0
-        },
-        {
-          "kind": "curve",
-          "smooth": true,
-          "x": 654.0,
-          "y": 494.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 654.0,
-          "y": 488.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 653.0,
-          "y": 483.0
-        },
-        {
-          "kind": "curve",
-          "smooth": true,
-          "x": 651.0,
-          "y": 483.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 647.0,
-          "y": 483.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 637.0,
-          "y": 510.0
-        }
-      ]
-    },
     {
       "closed": true,
       "points": [
