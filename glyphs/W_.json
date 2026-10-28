@@ -286,24 +286,6 @@
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 859.0,
-          "y": 874.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 859.0,
-          "y": 874.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 859.0,
-          "y": 875.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
           "x": 860.0,
           "y": 875.0
         },
@@ -317,24 +299,6 @@
           "kind": "curve",
           "smooth": false,
           "x": 860.0,
-          "y": 876.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
-          "x": 860.0,
-          "y": 877.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
-          "x": 859.0,
-          "y": 877.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
-          "x": 857.0,
           "y": 876.0
         },
         {
@@ -644,64 +608,10 @@
           "y": 874.0
         },
         {
-          "kind": "line",
-          "smooth": false,
-          "x": 83.0,
-          "y": 875.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
-          "x": 82.0,
-          "y": 875.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
-          "x": 81.0,
-          "y": 875.0
-        },
-        {
           "kind": "offcurve",
           "smooth": false,
-          "x": 81.0,
-          "y": 875.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 63.0,
-          "y": 865.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 63.0,
-          "y": 865.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 59.0,
-          "y": 862.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 55.0,
-          "y": 860.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 51.0,
-          "y": 858.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 46.0,
-          "y": 855.0
+          "x": 80.0,
+          "y": 876.0
         },
         {
           "kind": "offcurve",
@@ -750,30 +660,6 @@
           "smooth": false,
           "x": 19.0,
           "y": 832.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 14.0,
-          "y": 828.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 14.0,
-          "y": 828.0
-        },
-        {
-          "kind": "curve",
-          "smooth": false,
-          "x": 14.0,
-          "y": 828.0
-        },
-        {
-          "kind": "line",
-          "smooth": false,
-          "x": 13.0,
-          "y": 826.0
         },
         {
           "kind": "offcurve",

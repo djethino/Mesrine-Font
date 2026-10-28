@@ -58,32 +58,14 @@
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 413.0,
+          "x": 437.0,
           "y": 65.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 816.0,
-          "y": 258.0
-        },
-        {
-          "kind": "curve",
-          "smooth": true,
-          "x": 816.0,
-          "y": 413.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 816.0,
-          "y": 423.0
-        },
-        {
-          "kind": "offcurve",
-          "smooth": false,
-          "x": 815.0,
-          "y": 433.0
+          "x": 872.0,
+          "y": 291.0
         },
         {
           "kind": "curve",
