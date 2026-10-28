@@ -1,5 +1,5 @@
 {
-  "advance": 826.0,
+  "advance": 369.0,
   "anchors": [],
   "background": null,
   "components": [],
@@ -10,91 +10,91 @@
         {
           "kind": "curve",
           "smooth": false,
-          "x": -239.0,
+          "x": -696.0,
           "y": -366.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -210.0,
+          "x": -667.0,
           "y": -386.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -179.0,
+          "x": -636.0,
           "y": -395.0
         },
         {
           "kind": "curve",
           "smooth": true,
-          "x": -145.0,
+          "x": -602.0,
           "y": -395.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 51.0,
+          "x": -406.0,
           "y": -395.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 314.0,
+          "x": -143.0,
           "y": -94.0
         },
         {
           "kind": "curve",
           "smooth": true,
-          "x": 456.0,
+          "x": -1.0,
           "y": 25.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 539.0,
+          "x": 82.0,
           "y": 93.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 651.0,
+          "x": 194.0,
           "y": 231.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": 740.0,
+          "x": 283.0,
           "y": 319.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 740.0,
+          "x": 283.0,
           "y": 319.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 988.0,
+          "x": 531.0,
           "y": 563.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": 1004.0,
+          "x": 547.0,
           "y": 599.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 769.0,
+          "x": 312.0,
           "y": 639.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 521.0,
+          "x": 64.0,
           "y": -198.0
         }
       ]
@@ -105,109 +105,109 @@
         {
           "kind": "curve",
           "smooth": true,
-          "x": -273.0,
+          "x": -730.0,
           "y": -268.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -273.0,
+          "x": -730.0,
           "y": -305.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -248.0,
+          "x": -705.0,
           "y": -349.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": -248.0,
+          "x": -705.0,
           "y": -349.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -221.0,
+          "x": -678.0,
           "y": -273.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -196.0,
+          "x": -653.0,
           "y": -251.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": -159.0,
+          "x": -616.0,
           "y": -169.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -134.0,
+          "x": -591.0,
           "y": -159.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -121.0,
+          "x": -578.0,
           "y": -127.0
         },
         {
           "kind": "curve",
           "smooth": true,
-          "x": 21.0,
+          "x": -436.0,
           "y": -57.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 208.0,
+          "x": -249.0,
           "y": 36.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 231.0,
+          "x": -226.0,
           "y": 44.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": 234.0,
+          "x": -223.0,
           "y": 45.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 139.0,
+          "x": -318.0,
           "y": 62.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -110.0,
+          "x": -567.0,
           "y": -53.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": -173.0,
+          "x": -630.0,
           "y": -146.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -218.0,
+          "x": -675.0,
           "y": -171.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": -273.0,
+          "x": -730.0,
           "y": -247.0
         }
       ]
@@ -218,37 +218,37 @@
         {
           "kind": "curve",
           "smooth": false,
-          "x": 234.0,
+          "x": -223.0,
           "y": 45.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 234.0,
+          "x": -223.0,
           "y": 45.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 234.0,
+          "x": -223.0,
           "y": 45.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": 234.0,
+          "x": -223.0,
           "y": 45.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 234.0,
+          "x": -223.0,
           "y": 45.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 234.0,
+          "x": -223.0,
           "y": 45.0
         }
       ]
