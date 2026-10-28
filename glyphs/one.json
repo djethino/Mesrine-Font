@@ -10,74 +10,74 @@
         {
           "kind": "curve",
           "smooth": false,
-          "x": 536.0,
-          "y": 572.0
+          "x": 533.0,
+          "y": 549.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 526.0,
-          "y": 577.0
+          "x": 523.0,
+          "y": 554.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 517.0,
-          "y": 579.0
+          "x": 514.0,
+          "y": 556.0
         },
         {
           "kind": "curve",
           "smooth": true,
-          "x": 507.0,
-          "y": 579.0
+          "x": 504.0,
+          "y": 556.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 431.0,
-          "y": 579.0
+          "x": 428.0,
+          "y": 556.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 354.0,
-          "y": 442.0
+          "x": 351.0,
+          "y": 419.0
         },
         {
           "kind": "curve",
           "smooth": true,
-          "x": 249.0,
-          "y": 323.0
+          "x": 246.0,
+          "y": 300.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 173.0,
-          "y": 236.0
+          "x": 170.0,
+          "y": 213.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 15.0,
-          "y": 82.0
+          "x": 12.0,
+          "y": 59.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": -12.0,
-          "y": 18.0
+          "x": -15.0,
+          "y": -5.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 79.0,
-          "y": -22.0
+          "x": 76.0,
+          "y": -45.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 536.0,
-          "y": 572.0
+          "x": 533.0,
+          "y": 549.0
         }
       ]
     }

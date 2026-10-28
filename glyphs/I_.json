@@ -3,8 +3,8 @@
   "anchors": [
     {
       "name": "top",
-      "x": 548.0,
-      "y": 495.0
+      "x": 536.0,
+      "y": 429.0
     }
   ],
   "background": null,
@@ -16,38 +16,38 @@
         {
           "kind": "curve",
           "smooth": false,
-          "x": 444.0,
-          "y": 445.0
+          "x": 468.0,
+          "y": 380.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 370.0,
-          "y": 462.0
+          "x": 394.0,
+          "y": 397.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 97.0,
-          "y": 198.0
+          "x": 121.0,
+          "y": 133.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": -8.0,
-          "y": 65.0
+          "x": 16.0,
+          "y": 0.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 67.0,
-          "y": 18.0
+          "x": 91.0,
+          "y": -47.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 435.0,
-          "y": 427.0
+          "x": 459.0,
+          "y": 362.0
         }
       ]
     }

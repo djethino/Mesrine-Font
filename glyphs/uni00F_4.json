@@ -1,5 +1,5 @@
 {
-  "advance": 702.0,
+  "advance": 670.0,
   "anchors": [],
   "background": null,
   "components": [
@@ -21,7 +21,7 @@
         0.0,
         0.0,
         1.0,
-        -302.0,
+        -334.0,
         9.0
       ]
     }
