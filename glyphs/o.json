@@ -5,6 +5,11 @@
       "name": "exit",
       "x": 687.0,
       "y": 350.0
+    },
+    {
+      "name": "top",
+      "x": 515.0,
+      "y": 482.0
     }
   ],
   "background": null,
