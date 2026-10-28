@@ -10,74 +10,74 @@
         {
           "kind": "curve",
           "smooth": false,
-          "x": 467.0,
-          "y": 34.0
+          "x": 452.0,
+          "y": 50.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 367.0,
-          "y": 10.0
+          "x": 390.0,
+          "y": 33.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 437.0,
-          "y": -35.0
+          "x": 433.0,
+          "y": 1.0
         },
         {
           "kind": "curve",
           "smooth": true,
-          "x": 333.0,
-          "y": -137.0
+          "x": 369.0,
+          "y": -72.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 281.0,
-          "y": -187.0
+          "x": 337.0,
+          "y": -108.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 194.0,
-          "y": -209.0
+          "x": 283.0,
+          "y": -123.0
         },
         {
           "kind": "curve",
           "smooth": false,
-          "x": 131.0,
-          "y": -242.0
+          "x": 244.0,
+          "y": -147.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 146.0,
-          "y": -248.0
+          "x": 253.0,
+          "y": -151.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 163.0,
-          "y": -251.0
+          "x": 264.0,
+          "y": -153.0
         },
         {
           "kind": "curve",
           "smooth": true,
-          "x": 181.0,
-          "y": -251.0
+          "x": 275.0,
+          "y": -153.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 315.0,
-          "y": -251.0
+          "x": 358.0,
+          "y": -153.0
         },
         {
           "kind": "offcurve",
           "smooth": false,
-          "x": 500.0,
-          "y": -88.0
+          "x": 472.0,
+          "y": -37.0
         }
       ]
     }
