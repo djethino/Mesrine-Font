@@ -1,6 +1,17 @@
 {
   "advance": 1007.0,
-  "anchors": [],
+  "anchors": [
+    {
+      "name": "exit",
+      "x": 930.0,
+      "y": 271.0
+    },
+    {
+      "name": "entry",
+      "x": -7.0,
+      "y": 34.0
+    }
+  ],
   "background": null,
   "components": [],
   "contours": [

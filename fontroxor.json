@@ -9,20 +9,19 @@
       "masters": [],
       "rules": []
     },
-    "features": "\n\nfeature calt {\n    sub [H zero o] u' by u.high;\n    sub [H zero o] r' by r.high;\n    sub [H zero o] h' by h.high;\n    sub [H zero o] e' by e.high;\n    sub [H zero o] x' by x.high;\n    sub [H zero o] s' by s.high;\n} calt;\n",
+    "features": "\n\nfeature calt {\n    sub [H zero o uni00F4 b o.high uni00F4.high] u' by u.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] r' by r.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] h' by h.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] e' by e.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] x' by x.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] s' by s.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] n' by n.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00E9' by uni00E9.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00E8' by uni00E8.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00EA' by uni00EA.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00EB' by uni00EB.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00F9' by uni00F9.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00FB' by uni00FB.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00FC' by uni00FC.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] p' by p.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00F4' by uni00F4.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] o' by o.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni0131' by uni0131.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00EE' by uni00EE.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] uni00EF' by uni00EF.high;\n    sub [H zero o uni00F4 b o.high uni00F4.high] i' by i.high;\n} calt;\n",
     "glyphs": [],
     "info": {
       "ascender": 800.0,
-      "capHeight": 856.0,
+      "capHeight": 815.0,
       "decor": {
         "effects": [
           {
             "kind": "fill",
             "paint": {
-              "alpha": 0.65,
+              "alpha": 1.0,
               "color": 0
             },
-            "vary": 0.19,
             "visible": true
           },
           {
@@ -30,13 +29,13 @@
             "dy": 48.0,
             "kind": "shadow",
             "paint": {
-              "alpha": 1.0,
+              "alpha": 0.59,
               "alternates": [
                 0
               ],
               "color": 2
             },
-            "vary": 0.38,
+            "vary": 0.4,
             "visible": true
           }
         ]
@@ -108,9 +107,9 @@
           "linked": false,
           "mode": "fixed",
           "path": "asset:7243da435c224ff3.jpg",
-          "scale": 0.16198990405379635,
-          "x": 65.6052707535879,
-          "y": 54.06050950111489
+          "scale": 0.16965107417276323,
+          "x": 56.71731293304509,
+          "y": 168.20419099098714
         },
         "messages": {
           "language": "en"
@@ -125,23 +124,47 @@
           "features": {},
           "format": "a4",
           "frame": {
-            "w": 657.6377952755906,
-            "x": 79.3700787401575,
-            "y": 112.25196850393702
+            "w": 702,
+            "x": 67,
+            "y": 224
           },
           "ground": "image",
           "language": "",
-          "lineHeight": 1.3,
-          "mode": "text",
+          "lineHeight": 1.4,
+          "mode": "animation",
+          "motion": {
+            "stagger": 0,
+            "tracks": [
+              {
+                "id": "block:write",
+                "keys": [
+                  {
+                    "ease": "linear",
+                    "t": 0,
+                    "v": 0
+                  },
+                  {
+                    "ease": "ease",
+                    "t": 50.4,
+                    "v": 100
+                  }
+                ]
+              }
+            ]
+          },
           "rotated": false,
           "size": 13,
-          "text": "question d'argent - - même  si la   proposition est\n plus forte et cela  par principe. Peut être cherche\n- ra - t- il à  crouler  mon   bouquin .   mais cela\nme  laisse  froid .  je ne suis   pas né pour faire\nmais  pour  être ce que je suis (.)\n",
+          "text": "\n question  d' argent - - même  si la   proposition est\n plus  forte  et cela   par principe .  Peut -être cherche-\n- ra - t-il  à  crouler    mon  bouquin .    mais  cela\n me  laisse   froid .  je  ne suis   pas né  pour  faire\n mais  pour  être  ce que  je suis (.)\n",
+          "timeline": {
+            "duration": 53.3,
+            "repeat": "loop"
+          },
           "wrap": true
         }
       },
       "weightClass": 400,
       "widthClass": 5,
-      "xHeight": 245.0
+      "xHeight": 363.0
     },
     "kerning": {
       "@c": {
@@ -216,7 +239,7 @@
         "f": -139.0,
         "g": -140.0,
         "h": -140.0,
-        "j": -140.0,
+        "j": -43.0,
         "l": -17.0,
         "m": -62.0,
         "o": -53.0,
@@ -331,7 +354,7 @@
         "@e": -104.0,
         "D": -140.0,
         "S": -139.0,
-        "T": -48.0,
+        "T": -11.0,
         "b": -90.0,
         "d": -80.0,
         "exclam": -136.0,
@@ -340,7 +363,7 @@
         "h": -140.0,
         "hyphen": -87.0,
         "i": -44.0,
-        "j": -140.0,
+        "j": -4.0,
         "l": -140.0,
         "m": -125.0,
         "n": -48.0,
@@ -351,6 +374,7 @@
         "s": -44.0,
         "t": -139.0,
         "u": -135.0,
+        "uni00E7": -89.0,
         "v": -93.0,
         "x": -116.0
       },
@@ -404,7 +428,7 @@
         "question": -120.0,
         "r": -140.0,
         "s": -140.0,
-        "seven": -92.0,
+        "seven": -42.0,
         "t": -140.0,
         "u": -140.0,
         "v": -140.0,
@@ -467,7 +491,7 @@
         "j": -140.0,
         "m": -134.0,
         "n": -133.0,
-        "period": -134.0,
+        "period": -66.0,
         "r": -132.0,
         "u": -140.0,
         "v": -39.0,
@@ -516,7 +540,7 @@
         "h": -140.0,
         "hyphen": -138.0,
         "i": -136.0,
-        "j": -140.0,
+        "j": -34.0,
         "l": -140.0,
         "m": -140.0,
         "n": -136.0,
@@ -546,34 +570,34 @@
       "P": {
         "@c": -140.0,
         "@e": -140.0,
-        "B": -138.0,
+        "B": -42.0,
         "D": -140.0,
-        "E": -140.0,
+        "E": -42.0,
         "G": -140.0,
         "H": -140.0,
         "I": -140.0,
-        "J": -137.0,
+        "J": -30.0,
         "L": -140.0,
         "M": -140.0,
         "N": -140.0,
         "O": -140.0,
-        "P": -140.0,
+        "P": -3.0,
         "R": -140.0,
         "S": -140.0,
         "U": -140.0,
         "V": -140.0,
-        "Y": -94.0,
+        "Y": -63.0,
         "a": -140.0,
         "b": -140.0,
         "d": -140.0,
         "exclam": -127.0,
         "f": -140.0,
-        "five": -140.0,
+        "five": -47.0,
         "g": -140.0,
         "h": -140.0,
         "hyphen": -140.0,
         "i": -140.0,
-        "j": -140.0,
+        "j": -35.0,
         "l": -140.0,
         "m": -140.0,
         "n": -140.0,
@@ -583,11 +607,12 @@
         "parenleft": -140.0,
         "parenright": -103.0,
         "period": -140.0,
-        "question": -139.0,
+        "question": -84.0,
         "r": -140.0,
         "t": -140.0,
-        "three": -138.0,
+        "three": 0.0,
         "u": -140.0,
+        "uni00E9": -94.0,
         "v": -140.0,
         "x": -140.0,
         "y": -140.0,
@@ -644,7 +669,7 @@
         "h": -140.0,
         "hyphen": -140.0,
         "i": -137.0,
-        "j": -140.0,
+        "j": -63.0,
         "l": -140.0,
         "m": -140.0,
         "n": -139.0,
@@ -689,7 +714,7 @@
         "h": -140.0,
         "hyphen": -140.0,
         "i": -140.0,
-        "j": -140.0,
+        "j": -18.0,
         "l": -86.0,
         "m": -140.0,
         "n": -140.0,
@@ -722,7 +747,7 @@
         "h": -140.0,
         "hyphen": -52.0,
         "i": -34.0,
-        "j": -140.0,
+        "j": -85.0,
         "l": -83.0,
         "m": -100.0,
         "o": -72.0,
@@ -832,7 +857,7 @@
         "period": -140.0,
         "question": -139.0,
         "r": -140.0,
-        "seven": -44.0,
+        "seven": -14.0,
         "t": -140.0,
         "three": -131.0,
         "u": -140.0,
@@ -884,7 +909,7 @@
         "g": -140.0,
         "h": -140.0,
         "i": -140.0,
-        "j": -140.0,
+        "j": -92.0,
         "l": -140.0,
         "m": -140.0,
         "n": -140.0,
@@ -905,7 +930,7 @@
         "a": -140.0,
         "b": -140.0,
         "d": -140.0,
-        "exclam": -67.0,
+        "exclam": -43.0,
         "f": -140.0,
         "five": -76.0,
         "g": -140.0,
@@ -961,7 +986,7 @@
         "h": -140.0,
         "hyphen": -140.0,
         "i": -140.0,
-        "j": -140.0,
+        "j": -50.0,
         "l": -140.0,
         "m": -140.0,
         "n": -140.0,
@@ -1354,7 +1379,7 @@
         "G": -111.0,
         "H": -140.0,
         "I": -140.0,
-        "J": -140.0,
+        "J": -115.0,
         "L": -140.0,
         "M": -140.0,
         "N": -140.0,
@@ -1387,7 +1412,7 @@
         "parenright": -137.0,
         "question": -140.0,
         "r": -140.0,
-        "seven": -113.0,
+        "seven": -97.0,
         "t": -140.0,
         "three": -140.0,
         "u": -117.0,
@@ -1430,7 +1455,7 @@
         "f": -124.0,
         "g": -140.0,
         "h": -140.0,
-        "j": -140.0,
+        "j": -84.0,
         "l": -69.0,
         "m": -103.0,
         "o": -54.0,
@@ -1463,8 +1488,8 @@
         "y": -105.0
       },
       "period": {
-        "S": -94.0,
-        "f": -126.0,
+        "S": -27.0,
+        "f": -84.0,
         "g": -140.0,
         "h": -140.0,
         "j": -140.0,
@@ -1580,7 +1605,7 @@
         "h": -140.0,
         "hyphen": -140.0,
         "i": -139.0,
-        "j": -140.0,
+        "j": -122.0,
         "l": -140.0,
         "m": -140.0,
         "n": -140.0,
@@ -1688,6 +1713,12 @@
         "j": -39.0,
         "n": -97.0,
         "u": -84.0
+      },
+      "uni00E9": {
+        "exclam": -43.0,
+        "question": -51.0,
+        "uni00E7": -37.0,
+        "uni00E9": -41.0
       },
       "v": {
         "@c": -140.0,
@@ -1987,7 +2018,22 @@
     "uni00C_2.json",
     "C_.json",
     "uni00C_7.json",
-    "_brush.S_crunch.json"
+    "_brush.S_crunch.json",
+    "n.high.json",
+    "uni00E_9.high.json",
+    "uni00E_8.high.json",
+    "uni00E_A_.high.json",
+    "uni00E_B_.high.json",
+    "uni00F_9.high.json",
+    "uni00F_B_.high.json",
+    "uni00F_C_.high.json",
+    "p.high.json",
+    "o.high.json",
+    "uni00F_4.high.json",
+    "uni0131.high.json",
+    "uni00E_E_.high.json",
+    "uni00E_F_.high.json",
+    "i.high.json"
   ],
   "masterGlyphFiles": [],
   "versions": []

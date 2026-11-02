@@ -1,0 +1,39 @@
+{
+  "advance": 818.0,
+  "anchors": [],
+  "background": null,
+  "components": [
+    {
+      "base": "u.high",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "base": "uni0300",
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        -230.0,
+        -148.0
+      ]
+    }
+  ],
+  "contours": [],
+  "guides": [],
+  "hints": [],
+  "kernLeftGroup": null,
+  "kernRightGroup": null,
+  "name": "uni00F9.high",
+  "skipExport": false,
+  "sourceAnchors": [],
+  "sourceId": null,
+  "unicodes": []
+}
