@@ -42,9 +42,12 @@
       },
       "derivation": {
         "contrast": 0.0,
+        "corners": 0.0,
+        "joins": 0.0,
         "method": "optical",
         "slant": 0.0,
         "tracking": 0.0,
+        "traps": 0.0,
         "weight": 0.0,
         "width": 0.0
       },
@@ -131,7 +134,8 @@
           "ground": "image",
           "language": "",
           "lineHeight": 1.4,
-          "mode": "animation",
+          "mode": "text",
+          "morph": "C:\\Users\\ninej\\Downloads\\chopin_script\\ChopinScript.otf",
           "motion": {
             "stagger": 0,
             "tracks": [
@@ -145,7 +149,22 @@
                   },
                   {
                     "ease": "ease",
-                    "t": 50.4,
+                    "t": 30.1,
+                    "v": 100
+                  }
+                ]
+              },
+              {
+                "id": "morph",
+                "keys": [
+                  {
+                    "ease": "ease",
+                    "t": 30.1,
+                    "v": 0
+                  },
+                  {
+                    "ease": "ease",
+                    "t": 42.5,
                     "v": 100
                   }
                 ]
@@ -154,9 +173,9 @@
           },
           "rotated": false,
           "size": 13,
-          "text": "\n question  d' argent - - même  si la   proposition est\n plus  forte  et cela   par principe .  Peut -être cherche-\n- ra - t-il  à  crouler    mon  bouquin .    mais  cela\n me  laisse   froid .  je  ne suis   pas né  pour  faire\n mais  pour  être  ce que  je suis (.)\n",
+          "text": "question  d' argent - - même  si la   proposition est\nplus  forte  et cela   par principe .  Peut -être cherche-\n- ra - t-il  à  crouler    mon  bouquin .    mais  cela\nme  laisse   froid .  je  ne suis   pas né  pour  faire\nmais  pour  être  ce que  je suis (.)\n",
           "timeline": {
-            "duration": 53.3,
+            "duration": 45,
             "repeat": "loop"
           },
           "wrap": true
